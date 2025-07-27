@@ -206,7 +206,7 @@ ol {
   line-height: 1;
   font-weight: 700;
   text-transform: uppercase;
-  /* Обработка переполнения */
+  /* Обработка переполненияэ */
   white-space: nowrap; /* Запрет переноса строк */
   overflow: hidden; /* Скрытие выходящего за границы текста */
   text-overflow: ellipsis; /* Добавление "…" при переполнении */
